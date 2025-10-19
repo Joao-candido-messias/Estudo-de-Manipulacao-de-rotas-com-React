@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de um curso da Alura, com o objetivo de aprender e praticar a criação de Single Page Applications (SPAs) utilizando a biblioteca React Router DOM.
 
-🔗 Versão final do projeto: Acessar aqui
+🔗 Versão final do projeto: https://estudo-de-manipulacao-de-rotas-com.vercel.app/
 
 🎯 Objetivo
 
